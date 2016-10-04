@@ -1,0 +1,7 @@
+E:\systems\playground\katas\StringCalculator\20161004\sc\sc\obj\Debug\sc.csprojResolveAssemblyReference.cache
+E:\systems\playground\katas\StringCalculator\20161004\sc\sc\bin\Debug\sc.dll
+E:\systems\playground\katas\StringCalculator\20161004\sc\sc\bin\Debug\sc.pdb
+E:\systems\playground\katas\StringCalculator\20161004\sc\sc\bin\Debug\nunit.framework.dll
+E:\systems\playground\katas\StringCalculator\20161004\sc\sc\bin\Debug\nunit.framework.xml
+E:\systems\playground\katas\StringCalculator\20161004\sc\sc\obj\Debug\sc.dll
+E:\systems\playground\katas\StringCalculator\20161004\sc\sc\obj\Debug\sc.pdb
